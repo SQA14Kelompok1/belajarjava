@@ -7,6 +7,8 @@ public class Square {
     public Square(int rusuk){
         this.rusuk = rusuk;
     }
+	
+	//update description function
 
     public int getluas(){
         int luas=rusuk*rusuk;
