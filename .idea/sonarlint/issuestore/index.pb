@@ -5,8 +5,6 @@ Y
 +src/test/java/org/example/SegitigaTest.java,2\0\20274a5373b672bc62149463fb93def023a71b78
 W
 'src/main/java/org/example/Segitiga.java,f\6\f6dad73ad17271820c6b6003878a5504f7483c2d
-Y
-)src/main/java/org/example/Kalkulator.java,0\7\070280d6b3511c3c11a1ca0fa58ba4df000d4da7
 R
 "src/main/java/org/example/App.java,2\6\268b09d2a5cdab7d148f0ec91f7b3fb51601410d
 V
