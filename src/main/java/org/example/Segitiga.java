@@ -1,5 +1,8 @@
 package org.example;
 
+
+//Membuat Rumus Segitiga
+
 public class Segitiga {
     private int alas;
     private int tinggi;
