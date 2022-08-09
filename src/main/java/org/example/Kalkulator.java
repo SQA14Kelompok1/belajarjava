@@ -1,5 +1,6 @@
 package org.example;
 
+// Ini adalah program praktikum kalkulator
 public class Kalkulator {
     private int angka1;
     private int angka2;
